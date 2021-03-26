@@ -4,9 +4,6 @@ import in.shramishkafle.util.Const;
 
 import java.util.Properties;
 
-/**
- * Created by mayur on 25-10-2016.
- */
 public class Browser {
     private String name;
     private String version;
